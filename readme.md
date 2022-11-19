@@ -17,6 +17,7 @@ Ensure you have `winget` installed. If you don't, (Like if you installed from an
 That'll do it. Just follow the prompts as the pop up.
 
 ## What's it got?
+The full version is how I provision a Windows Computer - 
 ### Runtime Environments
 - .NET Framework 4.8, Runtime 6, and Runtime 7 (And 6 & 7 Desktop Runtimes)
 - Java RE 8
@@ -35,8 +36,8 @@ That'll do it. Just follow the prompts as the pop up.
 - OpenRA
 #### Utilities
 - Steam Rom Manager
-- Nyrna
-- Borderless Gaming
+- Nyrna (Suspends Apps, supposedly like a modern console does)
+- Borderless Gaming (Faux Borderless for those that can't Borderless)
 
 ### Multimedia
 - VCV Rack
@@ -73,6 +74,8 @@ That'll do it. Just follow the prompts as the pop up.
 - Sumatra PDF
 - Pandoc
 - Calibre
+
+The Gaming Edition contains just the gaming things, the .NET stuff, and Java 8
 
 ## Okay, but how do I update?
 1. Open Windows Terminal
