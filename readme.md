@@ -13,3 +13,54 @@ Open up Powershell or Windows Terminal.
 `winget install -i spinup-install.json -e`
 
 That'll do it. Just follow the prompts as the pop up.
+
+## What's it got?
+### Runtime Environments
+- .NET Framework 4.8, Runtime 6, and Runtime 7 (And 6 & 7 Desktop Runtimes)
+- Java RE 8
+
+### Games
+- Steam
+- Sonic Robo Blast 2
+- Sonic Robo Blast 2 Kart
+- OpenRA
+- Epic Games Launcher
+- Steam Rom Manager
+
+### Multimedia
+- VCV Rack
+- MPC-HC
+- foobar2000
+- Sonixd
+- PureCodec
+- The GIMP
+
+### Development
+#### IDEs
+- GNU Emacs
+- TeXStudio
+#### Languages
+- MiKTeX
+- SBCL
+- Erlang
+- Racket
+- Python 3.10
+- Rustup
+- Golang
+#### Version Control
+- Github Desktop
+- Git LFS
+
+### Internet Things
+- Firefox
+- Discord
+- Parsec
+
+### Office
+- Obsidian
+- ShareX
+- Sumatra PDF
+- Pandoc
+- Calibre
+
+
