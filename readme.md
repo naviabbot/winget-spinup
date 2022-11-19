@@ -8,9 +8,9 @@ It uses the Microsoft Windows Package Installer.
 
 Ensure you have `winget` installed. If you don't, (Like if you installed from an early version of Win10), get the [App Installer](https://apps.microsoft.com/store/detail/app-installer/9NBLGGH4NNS1?hl=en-us&gl=us) from the Microsoft Store.
 
-Open up Powershell or Windows Terminal. 
-
-`winget install -i spinup-install.json -e`
+1. Download the Zip file
+2. Open up Powershell or Windows Terminal. 
+3. `winget install -i spinup-install.json -e`
 
 That'll do it. Just follow the prompts as the pop up.
 
@@ -73,7 +73,8 @@ That'll do it. Just follow the prompts as the pop up.
 - Calibre
 
 ## Okay, but how do I update?
-`winget update --all --include-unknown`
+1. Open Windows Terminal
+2. `winget update --all --include-unknown`
 
 The last flag tells WinGet to get anything that doesn't have a verison number, in case you installed something outside of WinGet.
 
