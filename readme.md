@@ -9,8 +9,10 @@ It uses the Microsoft Windows Package Installer.
 Ensure you have `winget` installed. If you don't, (Like if you installed from an early version of Win10), get the [App Installer](https://apps.microsoft.com/store/detail/app-installer/9NBLGGH4NNS1?hl=en-us&gl=us) from the Microsoft Store.
 
 1. Download the Zip file
-2. Open up Powershell or Windows Terminal. 
-3. `winget install -i spinup-install.json -e`
+2. Unzip the Zip file
+3. Open up Powershell or Windows Terminal. 
+4. `cd ~\Downloads\winget-spinup-main`
+5. `winget install -i spinup-install.json -e`
 
 That'll do it. Just follow the prompts as the pop up.
 
