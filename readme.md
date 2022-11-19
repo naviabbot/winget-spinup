@@ -20,14 +20,21 @@ That'll do it. Just follow the prompts as the pop up.
 - Java RE 8
 
 ### Games
+#### Storefronts/Launchers
 - Steam
+- Epic Games Launcher
+- GOG Galaxy
+- Paradox Launcher
+- EA Desktop
+- Ubisoft Connect
+#### Indie/Open Source Games
 - Sonic Robo Blast 2
 - Sonic Robo Blast 2 Kart
 - OpenRA
-- Epic Games Launcher
+#### Utilities
 - Steam Rom Manager
-- Paradox Launcher
-- GOG Galaxy
+- Nyrna
+- Borderless Gaming
 
 ### Multimedia
 - VCV Rack
