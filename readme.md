@@ -17,7 +17,8 @@ Ensure you have `winget` installed. If you don't, (Like if you installed from an
 That'll do it. Just follow the prompts as the pop up.
 
 ## What's it got?
-The full version is how I provision a Windows Computer - 
+There are two versions - "Gaming Edition" and the spinup json file.
+The spinup json is how I provision a Windows Computer - 
 ### Runtime Environments
 - .NET Framework 4.8, Runtime 6, and Runtime 7 (And 6 & 7 Desktop Runtimes)
 - Java RE 8
