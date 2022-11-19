@@ -72,4 +72,9 @@ That'll do it. Just follow the prompts as the pop up.
 - Pandoc
 - Calibre
 
+## Okay, but how do I update?
+`winget update --all --include-unknown`
+
+The last flag tells WinGet to get anything that doesn't have a verison number, in case you installed something outside of WinGet.
+
 
