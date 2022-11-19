@@ -26,6 +26,7 @@ That'll do it. Just follow the prompts as the pop up.
 - OpenRA
 - Epic Games Launcher
 - Steam Rom Manager
+- Paradox Launcher
 
 ### Multimedia
 - VCV Rack
