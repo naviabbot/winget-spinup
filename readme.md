@@ -14,6 +14,8 @@ Ensure you have `winget` installed. If you don't, (Like if you installed from an
 4. `cd ~\Downloads\winget-spinup-main`
 5. `winget install -i spinup-install.json -e`
 
+If you want to just use the Gaming Edition file, just double click it to run it. (But please, for the love of your own security, read it before you run it. You never know if I'm a nasty person.)
+
 That'll do it. Just follow the prompts as the pop up.
 
 ## What's it got?
