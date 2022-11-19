@@ -27,6 +27,7 @@ That'll do it. Just follow the prompts as the pop up.
 - Epic Games Launcher
 - Steam Rom Manager
 - Paradox Launcher
+- GOG Galaxy
 
 ### Multimedia
 - VCV Rack
