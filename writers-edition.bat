@@ -1,0 +1,1 @@
+winget install --id=mb21.panwriter -e  && winget install --id=JohnMacFarlane.Pandoc -e  && winget install --id=Ombrelin.PandocGui -e  && winget install --id=MiKTeX.MiKTeX -e  && winget install --id=TeXstudio.TeXstudio -e 
